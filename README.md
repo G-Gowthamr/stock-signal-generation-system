@@ -63,7 +63,7 @@ This project was developed as part of the Infosys Springboard Virtual Internship
 
 Agile documentation for the project can be found below:
 
-* Agile Template (Excel): docs/Agile_Template.xlsx
+* Agile Document (Excel): docs/Agile_Document.xlsx
 * Agile Document (PDF): docs/Agile_Document.pdf
 
 Project:
