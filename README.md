@@ -56,3 +56,7 @@ python train_models.py
 
 ## Environment Variables
 See `.env.example` for required configuration.
+
+## Project Documentation
+- [Agile Documentation (Excel)](./docs/Agile_Documentation.xlsx)
+- [Agile Documentation (PDF)](./docs/Agile_Documentation.pdf)
