@@ -57,6 +57,14 @@ python train_models.py
 ## Environment Variables
 See `.env.example` for required configuration.
 
-## Project Documentation
-- [Agile Documentation (Excel)](./docs/Agile_Documentation.xlsx)
-- [Agile Documentation (PDF)](./docs/Agile_Documentation.pdf)
+## Agile Documentation
+
+This project was developed as part of the Infosys Springboard Virtual Internship 6.0.
+
+Agile documentation for the project can be found below:
+
+* Agile Template (Excel): docs/Agile_Template.xlsx
+* Agile Document (PDF): docs/Agile_Document.pdf
+
+Project:
+Development of Python Based Stock & ETF Signal Generation Platform
