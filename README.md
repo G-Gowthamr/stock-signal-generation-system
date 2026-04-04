@@ -1,6 +1,6 @@
-# Stock Signal Generation System
+# Stock and ETF Signal Generation Platform 
 
-An AI-powered stock signal prediction system for NSE India stocks using ML models and FastAPI.
+An AI-powered Stock and ETF Signal Generation Platform for NSE India stocks using ML models and FastAPI.
 
 ## Tech Stack
 - **Backend**: FastAPI, scikit-learn, LightGBM, XGBoost, yfinance
